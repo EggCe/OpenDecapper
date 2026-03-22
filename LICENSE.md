@@ -13,5 +13,3 @@
 
 ### Notices:
 No warranties are given. This license does not grant permission to use the "OpenDecapper" name for commercial branding. 
-
-Copyright (c) 2024 Project OpenDecapper
