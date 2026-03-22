@@ -51,7 +51,7 @@ For maximum durability and mechanical precision, use the following settings:
     ```bash
     git clone [https://github.com/EggCe/OpenDecapper.git](https://github.com/EggCe/OpenDecapper.git)
     ```
-2.  Open `/Arduino/OpenDecapper.ino` in the Arduino IDE.
+2.  Open `/code/sketch/sketch.ino` in the Arduino IDE.
 3.  Install necessary libraries (e.g., `AccelStepper`).
 4.  Upload to your board.
 
