@@ -1,6 +1,6 @@
 # OpenDecapper
 
-![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)
+![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 ![Build: Alpha](https://img.shields.io/badge/Status-Alpha-orange)
 
 **OpenDecapper** is an open-source, automated hardware solution for decapping fired brass. This project aims to provide a reliable, high-speed alternative to manual decapping by leveraging 3D-printed mechanics and Arduino-based control.
@@ -9,9 +9,9 @@
 
 ## 📂 Repository Structure
 
-* **/Arduino**: Source code (`.ino`) for the microcontroller. Handles motor control, cycle timing, and sensor feedback.
-* **/3D_Prints**: STL files for all structural and functional components.
-* **/CAD**: Original source files (STEP/Fusion 360) for design modifications and community forks.
+* **/code**: Source code (`.ino`) for the microcontroller. Handles motor control, cycle timing, and sensor feedback.
+* **/stl**: STL files for all structural and functional components.
+* **/cad**: Original source files (STEP/Fusion 360) for design modifications and community forks.
 
 ---
 
@@ -41,13 +41,13 @@ For maximum durability and mechanical precision, use the following settings:
 ## 🚀 Getting Started
 
 ### 1. Hardware Requirements
-* **Electronics:** Arduino (Nano/Uno), NEMA 17 Stepper Motor, Stepper Driver (A4988 or TMC2208).
-* **Tools:** 3D Printer (PETG recommended), M3/M5 Bolt kit, 8mm Linear Rails (depending on version).
+* **Electronics:** Arduino (Nano/Uno), NEMA 17 Stepper Motor, Stepper Driver (TMC2209 or TMC2208).
+* **Tools:** 3D Printer (PETG recommended), M3/M5 Bolt kit, 8mm Linear Rails.
 
 ### 2. Software Setup
 1.  Clone this repository:
     ```bash
-    git clone [https://github.com/yourusername/OpenDecapper.git](https://github.com/yourusername/OpenDecapper.git)
+    git clone [https://github.com/EggCe/OpenDecapper.git](https://github.com/EggCe/OpenDecapper.git)
     ```
 2.  Open `/Arduino/OpenDecapper.ino` in the Arduino IDE.
 3.  Install necessary libraries (e.g., `AccelStepper`).
@@ -77,9 +77,9 @@ Contributions are what make the open-source community such an amazing place to l
 
 ## ⚖️ License
 
-This project is licensed under the **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**. 
+This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**. 
 
-**Summary:** You are free to share and adapt this material for any purpose, even commercially, as long as you give appropriate credit and distribute your contributions under the same license. See `LICENSE` file for full text.
+**Summary:** You are free to share and adapt this material for non-commercial purposes only. If you remix or build upon this work, you must give appropriate credit. Commercial use of these designs or code is prohibited without explicit permission.
 
 ---
 

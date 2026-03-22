@@ -8,7 +8,7 @@
 | **DC Motor Controller** | ZK-DMC02 Motor Controller | 1 |
 | **Microcontroller** | Arduino Uno R3 | 1 |
 | **Expansion Board** | CNC Shield V3 | 1 |
-| **Stepper Driver** | TMC2209 Stepper Driver | 1 |
+| **Stepper Driver** | TMC2209 or TMC2208 Stepper Driver | 1 |
 | **Stepper Motor** | NEMA 17 (1.5A) | 1 |
 | **Limit Switches** | Mechanical Endstop Limit Switch | 2 |
 | **Push-Button** | 12mm Momentary Switch | 1 |
