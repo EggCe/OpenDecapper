@@ -30,8 +30,9 @@ Follow these steps to assemble your OpenDecapper machine. Ensure all 3D-printed 
 **Parts Required:** Caliber Wheel, Caliber Tube, NEMA 17 Stepper, 5mm Flange Coupling.
 
 1.  **Stepper Install:** Mount the **NEMA 17 Motor** to the **Baseplate**.
-2.  **Coupling:** Mount the **5mm Flange Coupling** onto the **Caliber Wheel**.
-3.  **Wheel Mounting:** Place the wheel onto the NEMA 17 shaft. You can tighten the coupling set-screws from the side of the assembly.
+2.  **Index Install:** Place Dillon **Index Spring** and **Index Ball** into indexing hole.
+3.  **Coupling:** Mount the **5mm Flange Coupling** onto the **Caliber Wheel**.
+4.  **Wheel Mounting:** Place the wheel onto the NEMA 17 shaft. You can tighten the coupling set-screws from the side of the assembly.
 
 ---
 
