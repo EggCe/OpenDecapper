@@ -11,7 +11,7 @@
 | **Stepper Driver** | TMC2209 Stepper Driver | 1 |
 | **Stepper Motor** | NEMA 17 (1.5A) | 1 |
 | **Limit Switches** | Mechanical Endstop Limit Switch | 2 |
-| **Push-Button** | 12MM Momentary Switch | 1 |
+| **Push-Button** | 12mm Momentary Switch | 1 |
 | **Relais** | Single Channel Relais Modul 5V | 1 |
 
 ### Mechanical & Motion
@@ -21,6 +21,7 @@
 | **Linear Rods** | 8mm Diameter, 220mm Length | 2 |
 | **Linear Bearings** | SC8UU (Gleitlager) | 4 |
 | **Radial Bearings** | 6mm ID, 19mm OD | 2 |
+| **Decapping Pin** | Lee Small Pistol Decapping Pin | 1 |
 
 ### Hardware (Screws)
 | Type | Size | Quantity |
