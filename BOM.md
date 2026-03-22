@@ -22,6 +22,8 @@
 | **Linear Bearings** | SC8UU (Gleitlager) | 4 |
 | **Radial Bearings** | 6mm ID, 19mm OD | 2 |
 | **Decapping Pin** | Lee Small Pistol Decapping Pin | 1 |
+| **Dillon Index Ball** | Dillon 13891_375 INDEX_BALL | 1 |
+| **Dillon Index Ball Spring** | Dillon 13997_INDEX BALL SPRING | 1 |
 
 ### Hardware (Screws)
 | Type | Size | Quantity |
