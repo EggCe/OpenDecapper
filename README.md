@@ -21,7 +21,21 @@ Markdown
 * **Automated Cycling:** Continuous feeding and de-priming.
 * **Open Hardware:** Fully customizable to fit different bench setups.
 * **Adjustable Speed:** Code-based control for different brass conditions.
-* **Modular Toolheads:** (Planned) Quick-swap heads for different calibers.
+* **Modular Toolheads:** Quick-swap heads for different calibers.
+
+---
+
+## 🖨️ Print Instructions
+
+For maximum durability and mechanical precision, use the following settings:
+
+| Setting | Value |
+| :--- | :--- |
+| **Material** | PETG |
+| **Infill** | 20% Gyroid |
+| **Walls** | 5 |
+| **Top Layers** | 5 |
+| **Bottom Layers** | 5 |
 
 ---
 
