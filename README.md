@@ -7,6 +7,7 @@
 
 **OpenDecapper** is an open-source, automated hardware solution for decapping fired brass. This project aims to provide a reliable, high-speed alternative to manual decapping by leveraging 3D-printed mechanics and Arduino-based control.
 
+This is a DIY project for educational purposes. Users are responsible for ensuring compliance with local laws and intellectual property.
 ---
 
 ## 📂 Repository Structure
