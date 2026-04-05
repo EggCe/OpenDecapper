@@ -5,7 +5,7 @@ Follow these steps to assemble your OpenDecapper machine. Ensure all 3D-printed 
 ---
 
 ## 🛠 Phase 1: Base Construction
-**Parts Required:** Baseplate, Motor-Mount, Stabi, Tube-Holder, TopLid, 2x Feet, M3 Heat Inserts, M6 Screws.
+**Parts Required:** Baseplate, Motor-Mount, Frame, Tube-Holder, TopLid, 2x Feet, M3 Heat Inserts, M6 Screws.
 
 1.  **Prepare the Feet:** Press **M3 heat-set inserts** into the designated holes in the two **Feet**. Mount the feet to the **Baseplate** using M3 screws.
 2.  **Stabilizer:** Align the **Stabi** component with the **Baseplate** and secure it firmly using **M6 screws**.
@@ -14,7 +14,7 @@ Follow these steps to assemble your OpenDecapper machine. Ensure all 3D-printed 
 ---
 
 ## ⚙️ Phase 2: Decapping Mechanism
-**Parts Required:** Decapping-frame, Excenter, Pleuel, 2x Radial Bearings, 4x Linear Bearings (SC8UU), 2x 8mm Rods (220mm).
+**Parts Required:** Decapping-frame, ExcenterBig, PleuelBig, 2x Radial Bearings, 4x Linear Bearings (SC8UU), 2x 8mm Rods (220mm).
 
 1.  **Bearing Press:** Install the **Radial Bearings** into the **Pleuel** and the **Excenter**.
 2.  **Motor Prep:** Mount the DC Motor to the **Motor-Mount** using **3x M5 screws**. 
@@ -27,7 +27,7 @@ Follow these steps to assemble your OpenDecapper machine. Ensure all 3D-printed 
 ---
 
 ## 🔄 Phase 3: Brass Feed System
-**Parts Required:** Caliber Wheel, Caliber Tube, NEMA 17 Stepper, 5mm Flange Coupling.
+**Parts Required:** Caliber Wheel, Caliber Tube, CaliberScraper, NEMA 17 Stepper, 5mm Flange Coupling.
 
 1.  **Stepper Install:** Mount the **NEMA 17 Motor** to the **Baseplate**.
 2.  **Index Install:** Place Dillon **Index Spring** and **Index Ball** into indexing hole.
