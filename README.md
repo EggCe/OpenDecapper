@@ -14,7 +14,6 @@ This is a DIY project for educational purposes. Users are responsible for ensuri
 
 * **/code**: Source code (`.ino`) for the microcontroller. Handles motor control, cycle timing, and sensor feedback.
 * **/stl**: STL files for all structural and functional components.
-* **/cad**: Original source files (STEP/Fusion 360) for design modifications and community forks.
 
 ---
 
@@ -34,10 +33,10 @@ For maximum durability and mechanical precision, use the following settings:
 | Setting | Value |
 | :--- | :--- |
 | **Material** | PETG |
-| **Infill** | 20% Gyroid |
-| **Walls** | 5 |
-| **Top Layers** | 5 |
-| **Bottom Layers** | 5 |
+| **Infill** | 40% adaptive cubic |
+| **Walls** | 8 |
+| **Top Layers** | 7 |
+| **Bottom Layers** | 7 |
 
 ---
 
@@ -60,21 +59,15 @@ For maximum durability and mechanical precision, use the following settings:
 
 ## 📅 Upcoming Milestones
 
-- [ ] **Comprehensive BOM:** Detailed list of all off-the-shelf parts and fasteners.
-- [ ] **Assembly Manual:** Step-by-step instructions with wiring diagrams.
-- [ ] **Calibration Guide:** Tips for timing the stroke and sensor alignment.
+- [x] **Comprehensive BOM:** Detailed list of all off-the-shelf parts and fasteners.
+- [x] **Assembly Manual:** Step-by-step instructions with wiring diagrams.
+- [x] **Calibration Guide:** Tips for timing the stroke and sensor alignment.
 
 ---
 
 ## 🤝 Contributing
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create.
-
-1.  Fork the Project.
-2.  Create your Feature Branch (`git checkout -b feature/ImprovedFeeder`).
-3.  Commit your Changes (`git commit -m 'Add improved case feeder'`).
-4.  Push to the Branch (`git push origin feature/ImprovedFeeder`).
-5.  Open a Pull Request.
 
 ---
 
