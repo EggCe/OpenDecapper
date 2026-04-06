@@ -59,9 +59,9 @@ For maximum durability and mechanical precision, use the following settings:
 
 ## 📅 Upcoming Milestones
 
-- [x] **Comprehensive BOM:** Detailed list of all off-the-shelf parts and fasteners.
-- [x] **Assembly Manual:** Step-by-step instructions with wiring diagrams.
-- [x] **Calibration Guide:** Tips for timing the stroke and sensor alignment.
+- [ ] **Comprehensive BOM:** Detailed list of all off-the-shelf parts and fasteners.
+- [ ] **Assembly Manual:** Step-by-step instructions with wiring diagrams.
+- [ ] **Calibration Guide:** Tips for timing the stroke and sensor alignment.
 
 ---
 
@@ -79,4 +79,13 @@ This project is licensed under the **Creative Commons Attribution-NonCommercial 
 
 ---
 
-**Safety Warning:** *Operating mechanical machinery involves inherent risks. Always use safe
+**⚠️ SAFETY WARNING:** — READ BEFORE BUILDING OR OPERATING
+
+This machine will crush fingers and hands without breaking a sweat. It is a motorized press driven by a DC motor with significant torque. It does not know or care if something is in the way.
+
+* NEVER run this machine unattended.
+* NEVER allow children near the machine, whether it is running or not.
+* Keep your hands and fingers away from the machine at ALL times when it is powered on.
+* Treat it like any industrial press — it can and will cause serious injury if misused.
+
+LIABILITY DISCLAIMER: This project is provided as-is with absolutely no warranty of any kind. The author(s) accept no responsibility or liability for any injury, damage, or loss resulting from building, modifying, or operating this machine. You build and use it entirely at your own risk.
