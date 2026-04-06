@@ -24,6 +24,8 @@ This is a DIY project for educational purposes. Users are responsible for ensuri
 * **Adjustable Speed:** Code-based control for different brass conditions.
 * **Modular Toolheads:** Quick-swap heads for different calibers.
 
+![Video](https://youtube.com/shorts/UAMVNMfc45k?feature=share)
+
 ---
 
 ## 🖨️ Print Instructions
