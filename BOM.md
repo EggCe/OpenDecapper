@@ -2,7 +2,7 @@
 
 ### Electronics
 | Item | Description | Quantity | Link |
-| :--- | :--- | :---: |
+| :--- | :--- | :--- | :---: |
 | **Power Supply** | 24V 3A DC Power Supply | 1 | https://de.aliexpress.com/item/33051556213.html |
 | **DC Motor** | 24V DC Motor (220 RPM) | 1 | https://de.aliexpress.com/item/1005009774429443.html |
 | **DC Motor Controller** | ZK-DMC02 Motor Controller | 1 | https://www.amazon.de/dp/B0GKXSY5CK |
@@ -16,7 +16,7 @@
 
 ### Mechanical & Motion
 | Item | Description | Quantity | Link |
-| :--- | :--- | :---: |
+| :--- | :--- | :--- | :---: |
 | **Coupling** | 5mm ID Flange Shaft Coupling | 1 | https://de.aliexpress.com/item/1005011579618575.html |
 | **Linear Rods** | 8mm Diameter, 215 mm Length | 2 | https://de.aliexpress.com/item/1005009454387776.html | 
 | **Linear Bearings** | SC8UU (Gleitlager) | 4 | https://de.aliexpress.com/item/4000861690916.html |
