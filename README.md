@@ -32,6 +32,8 @@ This is a DIY project for educational purposes. Users are responsible for ensuri
 
 For maximum durability and mechanical precision, use the following settings:
 
+- **Baseplate / Frame / Motor-Mount / Decapping-Frame:**
+
 | Setting | Value |
 | :--- | :--- |
 | **Material** | PETG |
@@ -39,6 +41,26 @@ For maximum durability and mechanical precision, use the following settings:
 | **Walls** | 8 |
 | **Top Layers** | 7 |
 | **Bottom Layers** | 7 |
+
+- **Pleuel/Excenter:**
+
+| Setting | Value |
+| :--- | :--- |
+| **Material** | PLA |
+| **Infill** | 70% Gyroid |
+| **Walls** | 8 |
+| **Top Layers** | 7 |
+| **Bottom Layers** | 7 |
+
+- **Everything Else**
+
+| Setting | Value |
+| :--- | :--- |
+| **Material** | PLA or PETG |
+| **Infill** | 20% Gyroid |
+| **Walls** | 3 |
+| **Top Layers** | 3 |
+| **Bottom Layers** | 3 |
 
 ---
 
