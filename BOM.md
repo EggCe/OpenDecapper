@@ -10,7 +10,8 @@
 | **Expansion Board** | CNC Shield V3 | 1 | https://de.aliexpress.com/item/1005007040646073.html |
 | **Stepper Driver** | TMC2209 or TMC2208 Stepper Driver | 1 | https://de.aliexpress.com/item/1005006323811276.html |
 | **Stepper Motor** | NEMA 17 (1.5A) | 1 | https://de.aliexpress.com/item/1005008383555860.html |
-| **Limit Switches** | Mechanical Endstop Limit Switch | 2 | https://de.aliexpress.com/item/32816845922.html |
+| **Limit Switche** | Mechanical Endstop Limit Switch | 1 | https://de.aliexpress.com/item/32816845922.html |
+| **IR Limit Switche** | Infrared Limit Switch | 1 | https://de.aliexpress.com/item/1005006947924085.html |
 | **Push-Button** | 12mm Momentary Switch | 1 | https://de.aliexpress.com/item/4000266966662.html |
 | **Relais** | Single Channel Relais Modul 5V | 1 | https://de.aliexpress.com/item/1005005319972049.html |
 
