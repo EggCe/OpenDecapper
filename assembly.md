@@ -18,7 +18,7 @@ Follow these steps to assemble your OpenDecapper machine. Ensure all 3D-printed 
 
 1.  **Bearing Press:** Install the **Radial Bearings** into the **Pleuel** and the **Excenter**.
 2.  **Motor Prep:** Mount the DC Motor to the **Motor-Mount** using **3x M5 screws**. 
-3.  **Excenter Fit:** Slide the **Excenter** onto the motor shaft. Ensure the shaft is seated flat against the excenter's internal profile.
+3.  **Excenter Fit:** Slide the **Excenter** onto the motor shaft. Ensure the shaft is seated flat against the excenter's internal profile. Fix Excenter with screws to the shaft of the motor.
 4.  **Frame Preparation:** Install the **4 Linear Bearings** onto the sides of the **Decapping-frame**. 
     * *Note:* Use M3 screws directly into the plastic. If extra strength is needed, use M3 heat-set inserts in the frame.
 5.  **Linear Assembly:** Insert the two **8mm Linear Rods** into the **Baseplate**. Slide the assembled **Decapping-frame** onto the rods.
@@ -39,7 +39,7 @@ Follow these steps to assemble your OpenDecapper machine. Ensure all 3D-printed 
 ## 🛑 Phase 4: Sensors & Calibration
 **Parts Required:** 2x Mechanical Limit Switches.
 
-1.  **Feed Alignment:** Mount the first **Limit Switch** to the **Baseplate**. 
+1.  **Feed Alignment:** Mount the  **IR Limit Switch** to the **Baseplate**. 
     * **Calibration:** Align it so the hole in the wheel perfectly matches the decapping hole in the baseplate when the switch is activated. Accuracy here is vital for reliability.
 2.  **Cycle Indexing:** Mount the second **Limit Switch** to the **Motor-Mount**.
 3.  **Home Position:** Position this switch so it activates at the **highest point (Top Dead Center)** of the decapping frame's movement.
